@@ -1,4 +1,4 @@
-![lah-captura](LINUX.lah-captura.png)
+<img src="lah-captura.png">
 
 
 |NOMBRE|ADMIN|GRUPO|OTROS|
